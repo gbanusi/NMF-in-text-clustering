@@ -1,4 +1,4 @@
-# NMF-in-text-clustering
+# NMF in text clustering
 
 Implemented Nonnegative matrix factorization for interactive topic modeling and document clustering in Python3.
 
